@@ -1,5 +1,5 @@
-{
-    "results": [
+module.exports = (
+    [
         {
             "gender": "female",
             "name": {
@@ -2800,11 +2800,4 @@
             },
             "nat": "NL"
         }
-    ],
-    "info": {
-        "seed": "a5a49ae50cc8ae3b",
-        "results": 50,
-        "page": 1,
-        "version": "1.3"
-    }
-}
+    ]);
