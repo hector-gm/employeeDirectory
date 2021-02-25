@@ -26,7 +26,7 @@ An application of this type is meant for use within an intranet portal rather th
 
 JavaScript
 React
-Random User API
+Random User API via Postman
 
 ## License
 
