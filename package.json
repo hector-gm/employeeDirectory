@@ -1,0 +1,19 @@
+{
+  "name": "react-employee-directory",
+  "version": "1.0.0",
+  "description": "Intra-company directory reference tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hector-gm/employeeDirectory.git"
+  },
+  "author": "hector-gm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hector-gm/employeeDirectory/issues"
+  },
+  "homepage": "https://github.com/hector-gm/employeeDirectory#readme"
+}
