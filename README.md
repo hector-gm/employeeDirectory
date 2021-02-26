@@ -24,13 +24,14 @@ An application of this type is meant for use within an intranet portal rather th
 
 ## Technologies Used
 
-JavaScript
-React
-Random User API via Postman
+- JavaScript
+- React
+- Random User API via Postman
 
 ## License
 
-This project is shared using the MIT License.
+Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.<br>
+![badge](https://img.shields.io/badge/license-mit-brightgreen)<br />
 
 ## Contributing
 
