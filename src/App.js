@@ -9,7 +9,6 @@ class App extends Component {
         employees
     }
 
-
     render() {
         return (
             <Wrapper>
