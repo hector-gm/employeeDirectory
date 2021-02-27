@@ -1,11 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 import EmployeeCard from "./components/EmployeeCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import employees from "./employees";
 
-class App extends Component {
-    state= {
+class App extends React.Component {
+    state = {
         employees
     }
 
@@ -18,13 +18,14 @@ class App extends Component {
                     id={employee.id}
                     key={employee.id}
                     name={employee.name}
-                    picture={employee.picture}
+                    picture={employee.picture.medium}
                     email={employee.email}
                     phone={employee.phone}
                     cell={employee.cell}
-                    timezone={employee.timezone}
+                    timezone={employee.location.timezone}
                     />
-                ))}
+                    ))
+                }
             </Wrapper>
         );
     }
